@@ -56,7 +56,7 @@ def download_video():
     get_stream.download(folder)
 
     
-    messagebox.showinfo("Succes!!", "Download Successfull, You will find your video at/n" + folder)
+    messagebox.showinfo("Succes!!", "Download Successfully, You will find your video at\n" + folder)
 
 
 
