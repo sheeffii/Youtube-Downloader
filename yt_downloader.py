@@ -1,11 +1,10 @@
-import tkinter as tk
 from tkinter import *
 from pytube import YouTube
 from tkinter import filedialog, messagebox
 
 
 
-root = tk.Tk()
+root =Tk()
 
 root.geometry("600x120")
 root.resizable(False,False)
